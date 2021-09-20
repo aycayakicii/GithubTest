@@ -26,6 +26,8 @@ namespace GithubTest
 			//KNAj
 			element.SendKeys(Keys.Enter);
 			Thread.Sleep(2000);
+			Thread.Sleep(2000);
+
 
 
 
